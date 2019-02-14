@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536020998 source:c:\users\jsm\desktop\arm\sobel.c\sobel.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1536517068 source:c:\users\jsm\desktop\arm\sobel\sobel.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
